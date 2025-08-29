@@ -1,0 +1,39 @@
+what is it :
+these are the orbits of all the planets in our solar system
+you can also see how they move at different rates
+
+How to Use the Simulation:
+
+- Choose which planets you want to animate by clicking the tick boxes
+- UnTick the box next to animate if you only want to see the orbits
+- Drag the slider to change the time step (will revert back once let go)
+- use your arrow keys to navigate to the slider to enter a custom value
+
+
+THE PHSYICS BEHIND IT:
+
+Newtons law of gravity is the central law that can be used to explain
+Planetary motion.       F = G * (M1 * M2)/R^2
+the force between the planets is the gravitaional constant (G) 
+into the product of the masses devided by the square of the distance between them.
+
+Keplars laws and newtons law of gravity can be used in tandam to derive the 
+Polar equation of an elipse  r = (a(1-e^2))/1-e*cos(theta)
+
+this equation gives you the distance betwwen the planet and the sun at given 
+angles of the planet (0 - 2pi)
+
+for more information on the derivation of the equation a video has been linked below
+video link :  https://www.youtube.com/watch?v=DurLVHPc1Iw
+
+
+more sources of information: 
+for further content and better explainations some more sources have been linked below
+
+extra source 1: https://www.youtube.com/watch?v=bcvnfQlz1x4
+extra source 2: https://www.youtube.com/watch?v=wLYZsO6lk0E
+
+
+
+
+

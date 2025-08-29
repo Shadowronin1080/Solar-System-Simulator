@@ -1,0 +1,21 @@
+
+What is it:
+Spirographs are bassed of an old toy used to display patterns
+these are the spirorapgs of two different planets 
+they are patterns generated that show you 
+how the orbits of each planet are different and are a fun visual aid
+
+
+How to Use the Simulation:
+
+- choose the closer planet from the menu on the right
+- Choose the further planet from the menu on the left
+
+THE MATHS BEHIND IT:
+
+At every point in one orbit of the planet a line is being drawn 
+to the possition of the other planet at that point
+
+This reasults in cool and visually characteristic geometric pattern
+
+

@@ -1,0 +1,15 @@
+What is it:
+This section includes relitive orbits of 
+every other planet relitive to a centre planet of your choice
+
+How to Use it:
+
+- Use the drop down to select the planet you want to set as your centre planet
+- Use the tick boxes to select all the other planets whose relitive orbits you want to view 
+- Use the slider to select the number of complete periods of the centre planet you want to 
+  display all the other orbits for
+
+The maths behind it:
+
+Geting the relitive orbits is as simple as subracting the coordinates of
+centre planet relitive to the sun at that point from the coordinates of the other planet 
